@@ -3,6 +3,10 @@
 ---
 
 ## I’m currently working on ...
+- DietMonitorApp
+
+ *An Android app that monitors the progress of your diet. Just enter your weight each day and track your weight loss!*
+
 - FIXTools
  
   *A C# code generator that takes FIX.xml specifications as input and generates a C++ constexpr FIX header library (that can be used to 'decode' FIX messages).*
