@@ -5,7 +5,7 @@
 ## I’m currently working on ...
 - DietMonitorApp
 
- *An Android app that monitors the progress of your diet. Just enter your weight each day and track your weight loss!*
+  *An Android app that monitors the progress of your diet. Just enter your weight each day and track your weight loss!*
 
 - FIXTools
  
