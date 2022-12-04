@@ -9,11 +9,11 @@
 
 - FIXTools
  
-  *A C# code generator that takes FIX.xml specifications as input and generates a C++ constexpr FIX header library (that can be used to 'decode' FIX messages).*
+  *A C# code generator that takes (Financial Information eXchange) FIX.xml specifications as input and generates a C++ constexpr FIX header library (that can be used to 'decode' FIX messages).*
         
 - StatisticsLibrary
 
-  *A C++ library of statistical functions (mean, var, sd, ...), tests (t-test, z-test, F-test ...) and analyses (time series, pca, lda).*
+  *A C++ library of statistical functions (mean, var, sd, ...), tests (t-test, z-test, F-test ...) and analyses (time series, ... and in the future pca, lda).*
 
 - NaturalLanguageProcessing 
 
